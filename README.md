@@ -42,11 +42,11 @@
 ミーティングを伴わずとも安心してプロジェクトをお任せいただけるよう、
 丁寧で的確な提案・報告・進行を徹底しています。💬
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horizonreach&show_icons=true&theme=radical&locale=ja)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horizonreach&layout=compact&theme=radical&locale=ja)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horizonreach&layout=compact&theme=radical&locale=ja) -->
 
 ## 🌟 最後に
 
